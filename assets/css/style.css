@@ -1,0 +1,57 @@
+h1, h2{color: grey;
+  background-color:  pink;
+  font-size: 25px;
+  font-family: Times;
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid;
+}
+
+h2{color: pink;
+  background-color: grey;
+  font-size: 20px;
+  font-family: Times;
+  font-style: italic;
+  margin: 20px;
+  padding:10px;
+  border: 2px dotted;
+}
+h3{color: pink;
+background-color: grey;
+font-size: 15px;
+font-family: Times;
+margin: 20px;
+padding: 10px;
+border: 2px solid;
+}
+
+div#coordonnees{
+  color: white;
+  background-color: grey;
+  margin: 20px;
+  padding: 20px;
+  border: 5px dotted;
+}
+div#diplomes{
+  color: white;
+  background-color: grey;
+  margin: 20px;
+  padding: 20px;
+  border: 5px dotted;
+
+}
+div#experiencesprofessionnelles{
+color: white;
+background-color: grey;
+margin: 20px;
+padding: 20px;
+border: 5px dotted;
+
+}
+div#competences{
+  color: white;
+  background-color: grey;
+  margin: 15px;
+  padding: 55px;
+  border: 5px dotted;
+}
